@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bGfwI5rZyLc=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\class liberary\\TeklaModelPlugin1\\TeklaModelPlugin1\\TeklaModelPlugin1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phowlader\\.nuget\\packages\\tekla.structures\\2021.0.0\\tekla.structures.2021.0.0.nupkg.sha512",
+    "C:\\Users\\phowlader\\.nuget\\packages\\tekla.structures.catalogs\\2021.0.0\\tekla.structures.catalogs.2021.0.0.nupkg.sha512",
+    "C:\\Users\\phowlader\\.nuget\\packages\\tekla.structures.datatype\\2021.0.0\\tekla.structures.datatype.2021.0.0.nupkg.sha512",
+    "C:\\Users\\phowlader\\.nuget\\packages\\tekla.structures.dialog\\2021.0.0\\tekla.structures.dialog.2021.0.0.nupkg.sha512",
+    "C:\\Users\\phowlader\\.nuget\\packages\\tekla.structures.model\\2021.0.0\\tekla.structures.model.2021.0.0.nupkg.sha512",
+    "C:\\Users\\phowlader\\.nuget\\packages\\tekla.structures.plugins\\2021.0.0\\tekla.structures.plugins.2021.0.0.nupkg.sha512",
+    "C:\\Users\\phowlader\\.nuget\\packages\\tekla.technology.msglib\\2.1.18312\\tekla.technology.msglib.2.1.18312.nupkg.sha512",
+    "C:\\Users\\phowlader\\.nuget\\packages\\tekla.technology.rkit\\2.1.4.17310\\tekla.technology.rkit.2.1.4.17310.nupkg.sha512"
+  ],
+  "logs": []
+}
